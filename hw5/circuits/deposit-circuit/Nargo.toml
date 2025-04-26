@@ -1,0 +1,11 @@
+[package]
+name = "deposit"
+type = "bin"
+authors = [ "" ]
+version = "0.1.0"
+
+
+[dependencies]
+
+[main]
+file = "src/deposit.nr"
